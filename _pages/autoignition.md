@@ -6,6 +6,7 @@ sitemap: true
 permalink: /projects/autoignition
 frontpageorder: 1 
 categories: [project]
+author_profile: true
 ---
 
 This is what I did ...

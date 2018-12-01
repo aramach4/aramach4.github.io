@@ -6,6 +6,7 @@ sitemap: true
 permalink: /projects/
 frontpageorder: 3
 categories: [frontpage]
+author_profile: true
 ---
 
 {% for page in site.pages %}
