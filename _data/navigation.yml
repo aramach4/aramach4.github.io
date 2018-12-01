@@ -10,6 +10,10 @@ main:
 
    - title: "Publications"
      url: /publications/
+
+   - title: "My CV"
+     url: /assets/docs/Aravind_Ramachandran_CV.pdf
+
   # - title: "Sample Collections"
   #   url: /collection-archive/
   # - title: "Sitemap"
