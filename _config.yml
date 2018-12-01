@@ -20,9 +20,9 @@ title                    : "Personal Website of Aravind Ramachandran"
 title_separator          : "-"
 name                     : "Aravind Ramachandran"
 description              : "<enter description here>"
-url                      : https://aramach4.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : / # the subpath of your site, e.g. "/blog"
-repository               : aramach4.github.io # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+url                      : https://aramach4.github.io
+baseurl                  : /
+repository               : aramach4.github.io
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 # breadcrumbs            : false # true, false (default)
 words_per_minute         : 200
