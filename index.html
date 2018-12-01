@@ -4,7 +4,6 @@ author_profile: true
 ---
 
 
-{% include base_path %}
 
 {% for page in site.pages %}
 {% if page.categories contains 'frontpage' %}
@@ -17,13 +16,3 @@ author_profile: true
 {% endif %}
 {% endfor %}
 
-{% comment %}
-<h3 class="archive__subtitle">Recent Posts</h3>
-
-{% for post in paginator.posts %}
-  {% include archive-single.html %}
-{% endfor %}
-
-{% include paginator.html %}
-
-{% endcomment %}
