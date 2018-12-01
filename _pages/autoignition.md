@@ -10,3 +10,4 @@ author_profile: true
 ---
 
 This is what I did ...
+![Example image sequence of flame stabilization by autoignition](/assets/images/Mode_C_Short_Collar.png){:height="200px"}.
