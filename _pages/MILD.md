@@ -11,4 +11,4 @@ author_profile: true
 
 
 
-![Example image sequence of flame stabilization by autoignition](/assets/images/Mode_C_Short_Collar.png){:height="200px"}.
+![Image sequence showing the broadening of formaldehyde in the flame as it transitions to an invisible MILD combustion regime](/assets/images/Sequence_Luminous_Transition_MILD.png){:height="200px"}.
