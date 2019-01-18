@@ -13,9 +13,9 @@ Here is a list of my publications and other outputs from my research so far. PDF
 
 ## Peer-Reviewed Journal Articles
 
-1. **Ramachandran, A.**, Narayanaswamy, V., Lyons, K. M., “Observations on the Role of Autoignition in Flame Stabilization in Turbulent Non-premixed Jet Flames in Vitiated Coflow”, ASME Journal of Engineering for Gas Turbines and Power (under review).
+1. **Ramachandran, A.**, Narayanaswamy, V., Lyons, K. M., “*Observations on the Role of Autoignition in Flame Stabilization in Turbulent Non-premixed Jet Flames in Vitiated Coflow*”, ASME Journal of Engineering for Gas Turbines and Power (under review).
 
-2. **Ramachandran, A.**, Chauhan, A., Narayanaswamy, V., Lyons, K. M., “On the transition of autoignitive jet flames to MILD combustion” (manuscript in preparation - advanced stage).
+2. **Ramachandran, A.**, Chauhan, A., Narayanaswamy, V., Lyons, K. M., “_On the transition of autoignitive jet flames to MILD combustion_” (manuscript in preparation - advanced stage).
 
 ## Conference Papers
 
