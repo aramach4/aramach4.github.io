@@ -1,7 +1,7 @@
 ---
 title: "Projects"
 layout: single
-excerpt: "Some side-projects I have been developing"
+excerpt: "Descriptions of my research projects"
 sitemap: true
 permalink: /projects/
 frontpageorder: 3
