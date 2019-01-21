@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Personal Website of Aravind Ramachandran"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : "Aravind Ramachandran"
-description              : "<enter description here>"
+description              : "Personal Website of Aravind Ramachandran"
 url                      : https://aramach4.github.io
 baseurl                  : /
 repository               : aramach4.github.io
